@@ -1,0 +1,11 @@
+.cproject
+.project
+.settings/
+Debug/
+Release/
+ard_nano_servo/.cproject
+ard_nano_servo/.project
+ard_nano_servo/.settings/
+ard_nano_servo/Debug/
+ard_nano_servo/Release/
+
